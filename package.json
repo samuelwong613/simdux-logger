@@ -1,6 +1,6 @@
 {
   "name": "simdux-logger",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Log the changes of simdux state for debugging",
   "main": "index.js",
   "scripts": {
